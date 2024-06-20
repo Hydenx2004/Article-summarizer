@@ -60,6 +60,7 @@ requests-file==2.1.0
 sgmllib3k==1.0.0
 six==1.16.0
 soupsieve==2.5
+lxml_html_clean
 tinysegmenter==0.3
 tldextract==5.1.2
 tqdm==4.66.4
